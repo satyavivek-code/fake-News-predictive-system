@@ -4,7 +4,7 @@
 This repository hosts a machine learning project aimed at detecting fake news. The project uses a dataset of labeled news articles to train a model that can distinguish between real and fake news based on the content, title, and author of the articles.
 
 # Data Source
-The dataset used in this project is obtained from Kaggle. It includes news articles with various features, labeled as real or fake. The dataset is split into training and testing sets.
+The dataset used in this project is obtained from Kaggle[ **https://www.kaggle.com/competitions/fake-news/data?select=train.csv** ]. It includes news articles with various features, labeled as real or fake. The dataset is split into training and testing sets.
 
 **train.csv:** Contains features such as article ID, title, author, text, and a label (real or fake).
 **test.csv:** Similar to the training set but without labels, used for testing the model's performance.
