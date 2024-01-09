@@ -1,5 +1,5 @@
-Fake News Predictive System
-Overview
+##Fake News Predictive System
+##Overview
 This repository hosts a machine learning project aimed at detecting fake news. The project uses a dataset of labeled news articles to train a model that can distinguish between real and fake news based on the content, title, and author of the articles.
 
 Data Source
